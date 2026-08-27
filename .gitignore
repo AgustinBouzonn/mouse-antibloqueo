@@ -1,0 +1,11 @@
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Accesos directos generados por Instalar-Inicio.ps1
+*.lnk
+
+# Logs y temporales
+*.log
+*.tmp
